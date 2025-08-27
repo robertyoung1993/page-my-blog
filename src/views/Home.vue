@@ -3,7 +3,7 @@
     <!-- 左侧导航栏 -->
     <div class="left-column">
       <div class="blog-title">
-        <h1>个人博客</h1>
+        <h1>Pages专区</h1>
       </div>
       <Navigation :items="navItems" :current-page="currentPage" @update-page="setCurrentPage" />
     </div>
