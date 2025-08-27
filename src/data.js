@@ -1,9 +1,9 @@
 export const navItems = ['主页', '关于我', '博客', '笔记', '知识库', '智能体'];
 
 export const notes = [
-  { title: '生活中的无形画布', date: '2024.10.5' },
-  { title: '塑造AI的魔法', date: '2024.10.10' },
-  { title: '园艺中生命哲学的呼吸感', date: '2024.10.15' }
+  { title: '生活中的无形画布', date: '2025.08.27' },
+  { title: '塑造AI的魔法', date: '2025.08.27' },
+  { title: '园艺中生命哲学的呼吸感', date: '2025.08.27' }
 ];
 
 export const blogs = [
