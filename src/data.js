@@ -1,6 +1,6 @@
 export const notes = [
   { title: '生活中的无形画布', date: '2023.10.5' },
-  { title: '塑造AI的魔法', date: '2024.10.10' },
+  { title: '塑造AI的魔法', date: '2024.11.10' },
   { title: '园艺中生命哲学的呼吸感', date: '2025.08.15' }
 ];
 
